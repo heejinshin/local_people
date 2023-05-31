@@ -13,4 +13,4 @@ class User(models.Model):
 
 
     class Meta: #메타 클래스를 이용하여 테이블명 지정
-            db_table = 'user_user'
+            db_table = 'member_member'
