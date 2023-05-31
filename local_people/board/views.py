@@ -6,3 +6,4 @@ def list(request):
     # boardList = Board.objects.all()
     # boardList = Board.objects.order_by('-id')
     # return render(request, "board/board_list.html", {'boardList':boardList} )
+
